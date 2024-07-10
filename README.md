@@ -10,8 +10,7 @@ My journey in technology and security has led me to develop a passion for cybers
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Audit                                | <a href="https://google.com">Detection Lab</a>|
-
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Audit                                | <a (https://docs.google.com/document/d/12lq1azmuFq3Df-vjt0dEOQnZ55PclCixPxSeCzAg71M/edit?usp=drive_link)> Security checklist</a>|
+| Bash Scripting                                | [(https://github.com/sharklinz/alx-system_engineering-devops) |
 
 ## Tools
